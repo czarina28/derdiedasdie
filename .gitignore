@@ -1,0 +1,15 @@
+# Server secrets and private content
+.env
+.env.*
+*-config.php
+business/config.php
+business/.htpasswd
+*.sql
+*.sqlite
+*.db
+*.zip
+*.bak
+*.old
+*.OLD
+*.OLD2
+.DS_Store
