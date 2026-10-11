@@ -1,0 +1,8 @@
+/* Shared derdiedasdie app identity for the existing PHP blog */
+:root{--ddd-ink:#17212e;--ddd-blue:#2563eb;--ddd-paper:#f8f7f3}
+body{background:var(--ddd-paper);color:var(--ddd-ink)}
+.ddd-topbar{background:var(--ddd-paper)}
+.ddd-brand-tag{font-weight:700;color:var(--ddd-blue)}
+.ddd-cta{background:var(--ddd-ink);color:white}
+.ddd-links a:hover{color:var(--ddd-blue)}
+.site-footer{border-top:1px solid #e4e3de}
